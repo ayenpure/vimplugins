@@ -6,6 +6,11 @@ let c_space_errors = 1
 set cc=80
 match ErrorMsg '\s\+$'
 match ErrorMsg '\t'
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
+
 command Clean %s/\s\+$//e
 
 colorscheme molokai 
