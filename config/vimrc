@@ -14,4 +14,4 @@ set expandtab
 
 command Clean %s/\s\+$//e
 
-colorscheme molokai
+colorscheme torte
