@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/abhishek/.vim/.git'
+let g:netrw_dirhist_2='/Users/abhishek/repositories/point-merge/Pub'
+let g:netrw_dirhist_3='/Users/abhishek/repositories/mine/vtkm/cont/testing'
+let g:netrw_dirhist_4='/Users/abhishek/repositories/point-merge-egpgv/egPublStyle-PGV19'
+let g:netrw_dirhist_5='/Users/abhishek/repositories/clipping-from-visit/make_vtkm_clipping_tables'
+let g:netrw_dirhist_6='/Users/abhishek/.vim/bundle'
