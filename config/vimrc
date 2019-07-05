@@ -14,3 +14,9 @@ set expandtab
 command Clean %s/\s\+$//e
 
 colorscheme torte
+
+let g:airline_powerline_fonts = 1
+
+if !exists('g:airline_symbols')
+    let g:airline_symbols = {}
+endif
